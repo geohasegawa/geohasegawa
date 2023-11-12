@@ -7,6 +7,7 @@ I work for a better future.
 
 #### OS
 ![macOS](http://img.shields.io/badge/mac%20OS-000000?style=for-the-badge&logoColor=white)
+![Windows](http://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logoColor=white)
 
 #### Languages
 ![Ruby](http://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logoColor=white)
