@@ -10,6 +10,8 @@ I work for a better future.
 ![Windows](http://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logoColor=white)
 
 #### Languages
+![TeX](http://img.shields.io/badge/TeX-008080?style=for-the-badge)
+![HTML](http://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
 ![Ruby](http://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logoColor=white)
 ![Dart](http://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logoColor=white)
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=white)
